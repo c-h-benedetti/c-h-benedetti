@@ -3,7 +3,7 @@ I have a Master degree of Comuter Sciences and applied mathematics (graduated in
 I am a big open source enthusiastic.
 - 🦉 Night owl ...
 - 👀 I am mostly interested in photorealistic render engines, and I am currently trying to write my own one. On my spare time, I like to do 3D art (mainly on Blender, I prefer architecture and mechanical modeling #PerfectTopology).
-- 🌱 I am currently learning procedural generation though L-Systems (in CS) and organic modeling (in art)
+- 🌱 I am currently learning procedural generation through L-Systems (in CS) and organic modeling (in art)
 - 💻 I am looking for a full time job in an animation studio as developer (prefered: USA or Canada, currently in France)
 - 📫 How to reach me 
     - email: `clement.h.benedetti@gmail.com`
